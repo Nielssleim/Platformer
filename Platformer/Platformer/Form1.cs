@@ -29,6 +29,7 @@ namespace Platformer
         bool enamyMoveR = true;
         bool enamyMoveL = false;
         bool health = false;
+        bool gitHubTest = true;
 
 
 
